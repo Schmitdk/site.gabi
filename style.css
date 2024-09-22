@@ -1,0 +1,19 @@
+header h1 {
+    color: #ffcc00; /* Altere para a cor desejada (ex: amarelo) */
+}
+
+nav a {
+    color: #ffffff; /* Altere para a cor desejada (ex: branco) */
+}
+
+nav a:hover {
+    color: #ffcc00; /* Cor ao passar o mouse (ex: amarelo) */
+}
+
+section h2 {
+    color: #ffcc00; /* Altere para a cor desejada (ex: amarelo) */
+}
+
+section p {
+    color: #ffffff; /* Altere para a cor desejada (ex: branco) */
+}
